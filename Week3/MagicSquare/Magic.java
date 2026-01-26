@@ -25,6 +25,7 @@ public class Magic {
         // for (int a = 1; true; a++) {
         // }
         int y = 0;
+        // int y = ay - 1;
         int x = (int) ax / 2;
         for (int v = 1; v < 100; v++) {
             System.out.printf("x : %d  y : %d   %n", x, y);
